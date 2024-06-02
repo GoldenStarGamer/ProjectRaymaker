@@ -13,3 +13,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Build/Windows/FileOpenOrder/EditorOpenOrder.log
+/Build
